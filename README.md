@@ -1,1 +1,1 @@
-# ussd-py
+# ussd demo in python
